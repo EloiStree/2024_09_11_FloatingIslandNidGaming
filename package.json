@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.ilegamenid",                              
+  "displayName": "Float Island of Nid Gaming",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Floating Island of the Gaming Nid at Charleroi.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_11_FloatingIslandNidGaming.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
